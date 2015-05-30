@@ -121,4 +121,13 @@ h3.highlight  {
     padding-right:27px;
 }
 
+#product-list li {
+  list-style-type: none;
+  font-size: 2.5em;
+}
+
+#product-list li span {
+  padding-right: .5em;
+}
+
 /* end theme */
