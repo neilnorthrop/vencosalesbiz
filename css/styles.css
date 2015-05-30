@@ -33,7 +33,6 @@ header {
 
 body {
   color:#828282;
-  background-color:#eee;
 }
 
 a,a:hover {
@@ -119,6 +118,19 @@ h3.highlight  {
 .panel {
 	padding-left:27px;
     padding-right:27px;
+}
+
+#product-list li {
+  list-style-type: none;
+  font-size: 2em;
+}
+
+#product-list li span {
+  padding-right: .5em;
+}
+
+header h1 {
+  font-size: 5em;
 }
 
 /* end theme */
