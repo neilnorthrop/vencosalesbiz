@@ -167,4 +167,8 @@ html, head, body, ul, li, nav, header, footer, a {
   font-family: juice-light-italic;
 }
 
+#sidebar a {
+  padding: 0px;
+}
+
 /* end theme */
