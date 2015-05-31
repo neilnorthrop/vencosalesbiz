@@ -120,17 +120,17 @@ h3.highlight  {
     padding-right:27px;
 }
 
-#product-list li {
+#sidebar li {
   list-style-type: none;
   font-size: 2em;
 }
 
-#product-list li span {
-  padding-right: .5em;
+header h1 {
+  font-size: 6em;
 }
 
-header h1 {
-  font-size: 5em;
+#lead {
+  font-size: .5em;
 }
 
 @font-face {
