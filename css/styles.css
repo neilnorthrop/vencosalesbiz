@@ -168,7 +168,11 @@ html, head, body, ul, li, nav, header, footer, a {
 }
 
 #sidebar a {
-  padding: 0px;
+  padding: 1px;
+}
+
+#sidebar {
+  padding-top: 225px;
 }
 
 /* end theme */
