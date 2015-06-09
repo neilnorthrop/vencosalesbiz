@@ -52,17 +52,17 @@ a,a:hover {
 h3.highlight  {
 	padding-top:13px;
     padding-bottom:14px;
-  	border-bottom:2px solid #ff3333;
+  	border-bottom:2px solid blue;
 }
 
 .navbar {
 	background-color: blue;
-  	color:#ffffff;
+  	color:#FFF;
     border:0;
   	border-radius:0;
 }
 .navbar-nav > li > a {
-  	color:#fff;
+  	color:#FFF;
   	padding-left:20px;
   	padding-right:20px;
   	border-left:1px solid black;
@@ -74,14 +74,14 @@ h3.highlight  {
   	border-right:1px solid black;
 }
 .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
-    color: #ffffff;
+    color: #FFF;
 	background-color:transparent;
 }
 .navbar-nav > .open > a, .navbar-nav > .open > a:hover, .navbar-nav > .open > a:focus {
-	color: #f0f0f0;
+	color: #FFF;
 	background-color:transparent;
   	opacity:.9;
-    border-color:#ff3333;
+    border-color:#FFF;
 }
 
 .nav .open > a {
@@ -159,6 +159,10 @@ html, head, body, ul, li, nav, header, footer, a {
 #sidebar a {
   padding: 1px;
   color: blue;
+}
+
+#sidebar a:hover {
+  background-color: #FFF;
 }
 
 #sidebar {
