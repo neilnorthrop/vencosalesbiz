@@ -172,6 +172,12 @@ header h1 {
   src: url(../fonts/UglyQua/UglyQua-Italic.ttf);
 }
 
+
+@font-face {
+  font-family: 'ThatsFontFolks';
+  src: url(../fonts/ThatsFontFolks.ttf);
+}
+
 html, head, body, ul, li, nav, header, footer, a {
   font-family: UglyQua;
   color: black;
@@ -188,6 +194,15 @@ html, head, body, ul, li, nav, header, footer, a {
 
 #sidebar {
   padding-top: 225px;
+}
+
+#signature {
+  font-family: "ThatsFontFolks";
+  font-size: 150%;
+}
+
+.about-text {
+  font-size: 150%;
 }
 
 /* end theme */
