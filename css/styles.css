@@ -32,7 +32,7 @@ header {
 /* theme */
 
 body {
-  color:#828282;
+  background-color:#F6F4F5;
 }
 
 a,a:hover {
@@ -133,36 +133,6 @@ header h1 {
 }
 
 @font-face {
-  font-family: "juice-regular";
-  src: url(../fonts/juice/JUICE-Regular.ttf);
-}
-
-@font-face {
-  font-family: "juice-light";
-  src: url(../fonts/juice/JUICE-Light.ttf);
-}
-
-@font-face {
-  font-family: "juice-light-italic";
-  src: url(../fonts/juice/JUICE-Light-Italic.ttf);
-}
-
-@font-face {
-  font-family: "juice-italic";
-  src: url(../fonts/juice/JUICE-Italic.ttf);
-}
-
-@font-face {
-  font-family: "juice-bold-italic";
-  src: url(../fonts/juice/JUICE-Bold-Italic.ttf);
-}
-
-@font-face {
-  font-family: "juice-bold";
-  src: url(../fonts/juice/JUICE-Bold.ttf);
-}
-
-@font-face {
   font-family: 'UglyQua';
   src: url(../fonts/UglyQua/UglyQua.ttf);
 }
@@ -180,7 +150,6 @@ header h1 {
 
 html, head, body, ul, li, nav, header, footer, a {
   font-family: UglyQua;
-  color: black;
 }
 
 #lead {
